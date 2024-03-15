@@ -19,7 +19,7 @@ Currently a 2nd year computer science student at Silesian Univeristy of Technolo
 
 ## Off-topic info
 - 🎵 Music enthusiast, especially UK grime or garage.
-- Fluent in English and native in Polish
+- Fluent in English and native in Polish, learning Portuguesse
 - FPS games enthusiast, most favourite is Counter Strike
  
 <!--
