@@ -1,10 +1,11 @@
 ### Hello, I'm Radek 👋
 
-Currently a 2nd year computer science student at Silesian Univeristy of Technology. 22 years old, eager to learn new things and master the ones I already know. Not afraid to put time and effort into learning. Currently focusing on the things i study, not doing much side work. 
+Currently a 3rd year computer science student at Silesian Univeristy of Technology. 22 years old, eager to learn new things and master the ones I already know. Not afraid to put time and effort into learning. Currently focusing on the things i study, not doing much side work. 
 
 ## Stuff I'm familiar with
 - Linux systems and software
 - Python
+- Flask for web apps backend
 - JavaScript, basic PHP
 - HTML and CSS for basic and more advanced websites
 - C++ and Java
@@ -15,7 +16,6 @@ Currently a 2nd year computer science student at Silesian Univeristy of Technolo
 - C#
 - Advanced Python things
 - Go language
-- Kotlin
 
 ## Off-topic info
 - 🎵 Music enthusiast, especially UK grime or garage.
