@@ -9,9 +9,9 @@ Currently a 3rd year computer science student at Silesian Univeristy of Technolo
 - JavaScript, basic PHP
 - HTML and CSS for basic and more advanced websites
 - C++ and Java
+- Basic knowledge of Wolfram Mathematica
 
 ## Stuff I want to learn or I'm learning at Uni:
-- Wolfram Mathematica
 - More Java
 - C#
 - Advanced Python things
