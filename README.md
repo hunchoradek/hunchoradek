@@ -1,6 +1,6 @@
 ### Hello, I'm Radek 👋
 
-Currently a 3rd year computer science student at Silesian Univeristy of Technology. 23 years old, eager to learn new things and master the ones I already know. Not afraid to put time and effort into learning. Focusing on the things i study, not doing much side work. 
+Currently a 4th year computer science student at Silesian Univeristy of Technology. 23 years old, eager to learn new things and master the ones I already know. Not afraid to put time and effort into learning. Focusing on the things i study, not doing much side work. 
 
 ## Stuff I'm familiar with
 - Linux systems and software
