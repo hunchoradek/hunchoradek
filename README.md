@@ -6,15 +6,13 @@
 
 4th Year @ Silesian University of Technology | Poland 🇵🇱
 
-[![GitHub followers](https://img.shields.io/badge/followers-hunchoradek-blue?style=social&logo=github)](https://github.com/hunchoradek)
-
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate CS student and aspiring DevOps engineer with a strong commitment to continuous learning and growth. I believe in deep focus and mastery over breadth, dedicating my time to truly understanding the technologies I work with. Currently on my journey to master cloud infrastructure, automation, and modern DevOps practices. Always eager to tackle new challenges and expand my technical horizons.
+I'm a passionate CS student and aspiring DevOps engineer with a strong commitment to continuous learning and growth. I truly believe in walking my own path and doing stuff on my chaotic acord. Not always motivated to work, not always doing the correct stuff but always eager to learn new things. I work the best when my mind is fully chilled and without much stress from the outside. Also a geography nerd.
 
 ## 💻 Tech Stack
 
@@ -70,8 +68,6 @@ Currently training in DevOps practices and cloud technologies:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunchoradek&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunchoradek&layout=compact&theme=radical&hide_border=true)
 
