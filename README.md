@@ -1,13 +1,13 @@
 # Hi, I'm Radek 👋
 
-**Computer Science Student | Aspiring Software Engineer | DevOps Engineer | Full-stack Developer**  
+**Computer Science Student | Junior Software Engineer**  
 
 Studying @ Silesian University of Technology, Poland 🇵🇱
 
 ---
 
-Computer Science student with professional experience as a DevOps Engineer and strong foundations in software
-development. Actively building skills through personal and academic projects. Currently working at personal growth in DevOps and still mastering my Frontend skills. 
+Computer Science student with professional experience as a DevOps Engineer and Software Engineer
+development. Actively building skills through personal and academic projects. Currently working as a Junior Software Engineer. 
 
 In my free time, I like to tinker with various PC builds, mod the OS including many Linux variations. Currently I'm running Windows 11 on my Desktop PC due to issues with the games I play. I code using WSL2 with VS Code. On the go, I use my laptop (Thinkpad X1 Carbon gen 6) with CachyOS.
 
@@ -71,7 +71,6 @@ In my free time, I like to tinker with various PC builds, mod the OS including m
 
 ## 🌍 Beyond Code
 
-🎵 Music enthusiast – I like UK music (grime, garage, DNB) and also modern hiphop like Ken Carson etc.
-🎮 Gaming - My favourite games are: Cyberpunk 2077, The Witcher 3, Clair Obscur Expedition 33, Assassin's Creed series 
+🎵 I like UK music (grime, garage, DNB) and also modern hiphop like Ken Carson etc. 
 🎮 Spent a lot of time playing Counter Strike, took part in some local amateur tournaments and built some teams for competing.
-🗣️ Polish (native) • English (C1) • Portuguese (beginner)
+🗣️ Polish (native) • English (C1) • Portuguese (beginner) • Spanish (A1/learning)
