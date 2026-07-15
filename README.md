@@ -70,7 +70,7 @@ Outside of work, I maintain a homelab for testing infrastructure and contribute 
 - 🖥️ PC building, hardware troubleshooting, and homelab experimentation
 - 🎮 Gaming
 - ⚽ Football
-- 🗣️ Polish (native) · English (C1) · Spanish (A1, learning) · Portuguese (beginner)
+- 🗣️ Polish (native) · English (C1) · Portuguese (A1/A2, self-learning) · Spanish (A1, learning @ uni)
 ---
 
  
