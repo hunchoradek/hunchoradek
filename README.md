@@ -59,19 +59,20 @@ Outside of work, I maintain a homelab for testing infrastructure and contribute 
 ### 📊 GitHub Stats
  
 <div align="center">
-[![Radek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hunchoradek&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunchoradek&theme=react-dark&hide_border=true" alt="Radek's GitHub activity graph" />
+  </a>
 </div>
 ---
  
 ### 🌍 Beyond code
  
-🖥️ PC building, hardware troubleshooting, and homelab experimentation
-🎮 ex cs:go enthusiast 
-⚽ Football
-🗣️ Polish (native) · English (C1) · Spanish (A1, learning) · Portuguese (beginner)
- 
+- 🖥️ PC building, hardware troubleshooting, and homelab experimentation
+- 🎮 Gaming
+- ⚽ Football
+- 🗣️ Polish (native) · English (C1) · Spanish (A1, learning) · Portuguese (beginner)
 ---
+
  
  
 
